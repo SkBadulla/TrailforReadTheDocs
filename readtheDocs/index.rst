@@ -9,7 +9,10 @@ Welcome to Web Design and Development - APSSDC's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   Sample
+   
+   Introduction To Django
 
 
 Indices and tables
