@@ -10,7 +10,7 @@ Welcome to Web Design and Development - APSSDC's documentation!
    :maxdepth: 2
    :numbered:
    
-   Sample
+   Sample.rst
    Introduction To Django.md
 
 
